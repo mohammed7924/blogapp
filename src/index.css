@@ -1,3 +1,42 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    
+    box-sizing: border-box;
+  
+  }
+  
+  
+  
+  .bg{
+    
+      background: linear-gradient(to right, #00aeff80, #010301ea), linear-gradient(to bottom, #131391, #b79c05ea);
+  
+  
+  }
+  #but{
+    background-color: rgba(166, 128, 23, 0.981);
+    border-radius: 20px;
+    border-color: black;
+    border-bottom-width: 1px;
+    border-style: ridge;
+  }
+  .bgf{
+    background: linear-gradient(45deg, #8e8c0d, #393c04ef, #090909, #0f0803);
+  
+  }
+  
+  .bgl{
+    background: linear-gradient(45deg, #0d3e83, #0c5779, #090909, #0f0803);
+  
+  }
+  .bgm{
+    background: linear-gradient(45deg, #7a770a, #000000f9, #090909, #010100);
+  
+  }
+  
