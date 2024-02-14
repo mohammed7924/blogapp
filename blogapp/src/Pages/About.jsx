@@ -15,7 +15,7 @@ function About() {
 
          
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Non deleniti fuga iusto eum vel magnam labore ea cumque odit reiciendis, eius porro veritatis praesentium, minus minima ratione facilis ipsa perspiciatis!
+              Lore ipsum dolor sit amet consectetur adipisicing elit. Non deleniti fuga iusto eum vel magnam labore ea cumque odit reiciendis, eius porro veritatis praesentium, minus minima ratione facilis ipsa perspiciatis!
             </p>
           </div>
         </div>
